@@ -1,12 +1,12 @@
 {
   "name": "nodejs-app",
   "version": "1.0.0",
-  "description": "Updated express dependency 4.20 --> 4.2x",
+  "description": "Updated express dependency 4.20 --> 4.x",
   "main": "server.js",
   "author": "Red Hat Training",
   "license": "ASL",
   "dependencies": {
-    "express": "4.20",
+    "express": "4.x",
     "html-errors": "latest"
   }
 }
